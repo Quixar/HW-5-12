@@ -1,18 +1,7 @@
-class Human;
-class Cat;
-class Book;
-class Smartphone;
-class RemoteControl;
-
 #include <iostream>
 #include <ctime>
 #include <string>
-
-
-
 using namespace std;
-
-
 
 class Book {
 private:
